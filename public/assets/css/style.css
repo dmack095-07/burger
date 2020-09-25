@@ -1,0 +1,11 @@
+.column-right {
+  float: right;
+}
+
+.column-left {
+  float: left;
+}
+
+body {
+  background-color: orange;
+}
